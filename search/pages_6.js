@@ -1,4 +1,32 @@
 var searchData=
 [
-  ['projecteuler_0',['ProjectEuler',['../d8/d81/md_project_euler__r_e_a_d_m_e.html',1,'']]]
+  ['c_0',['The Algorithms - C',['../index.html',1,'']]],
+  ['changes_1',['Making Changes',['../d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md23',1,'']]],
+  ['changes_20📦_2',['📦 Committing your changes 📦',['..//Users/runner/work/C/C/leetcode/README.md#autotoc_md76',1,'']]],
+  ['cipher_3',['Cipher',['../d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md48',1,'']]],
+  ['client_20server_4',['Client Server',['../d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md49',1,'']]],
+  ['cloning_20setting_20up_20the_20project_20💻_5',['💻 Cloning/setting up the project 💻',['..//Users/runner/work/C/C/leetcode/README.md#autotoc_md74',1,'']]],
+  ['cmake_20in_20a_20new_20directory_6',['Integrating CMake in a new directory',['../d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md31',1,'']]],
+  ['code_7',['Code',['../d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md24',1,'']]],
+  ['code_20analyzer_8',['Static Code Analyzer',['../d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md35',1,'']]],
+  ['code_20formatter_9',['Code Formatter',['../d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md36',1,'']]],
+  ['code_20of_20conduct_10',['Contributor Covenant Code of Conduct',['../d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html',1,'']]],
+  ['code_20style_20convention_11',['Code style convention',['../dc/d64/md__coding_guidelines.html',1,'']]],
+  ['code_20style_20conventions_12',['Code style conventions',['../dc/d64/md__coding_guidelines.html#autotoc_md16',1,'']]],
+  ['commit_20guidelines_13',['Commit Guidelines',['../d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md32',1,'']]],
+  ['committing_20your_20changes_20📦_14',['📦 Committing your changes 📦',['..//Users/runner/work/C/C/leetcode/README.md#autotoc_md76',1,'']]],
+  ['conduct_15',['Contributor Covenant Code of Conduct',['../d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html',1,'']]],
+  ['content_16',['Content',['..//Users/runner/work/C/C/data_structures/stack/README.md#autotoc_md45',1,'']]],
+  ['contributing_17',['Contributing',['../d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md19',1,'']]],
+  ['contributing_18',['Before contributing',['../d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md18',1,'']]],
+  ['contributing_20📚_19',['📚 Contributing 📚',['..//Users/runner/work/C/C/leetcode/README.md#autotoc_md73',1,'']]],
+  ['contribution_20guidelines_20',['CONTRIBUTION GUIDELINES',['../d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html',1,'']]],
+  ['contributions_21',['Contributions',['../index.html#autotoc_md81',1,'']]],
+  ['contributor_22',['Contributor',['../d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md21',1,'']]],
+  ['contributor_20covenant_20code_20of_20conduct_23',['Contributor Covenant Code of Conduct',['../d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html',1,'']]],
+  ['convention_24',['Code style convention',['../dc/d64/md__coding_guidelines.html',1,'']]],
+  ['conventions_25',['Code style conventions',['../dc/d64/md__coding_guidelines.html#autotoc_md16',1,'']]],
+  ['conversions_26',['Conversions',['../d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md50',1,'']]],
+  ['correction_27',['1. Correction',['../d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md7',1,'']]],
+  ['covenant_20code_20of_20conduct_28',['Contributor Covenant Code of Conduct',['../d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html',1,'']]]
 ];

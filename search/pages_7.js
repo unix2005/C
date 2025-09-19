@@ -1,5 +1,10 @@
 var searchData=
 [
-  ['sample_20solutions_20for_20_3ca_20href_3d_22http_3a_2f_2fexercism_2eio_2f_22_20target_3d_22_5fblank_22_20_3eexercism_2eio_3c_2fa_3e_0',['Sample solutions for &lt;a href=&quot;http://exercism.io/&quot; target=&quot;_blank&quot; &gt;exercism.io&lt;/a&gt;',['../d7/db5/md_exercism__r_e_a_d_m_e.html',1,'']]],
-  ['simple_20generic_20stack_1',['Simple generic Stack',['../d1/d12/md_data_structures_stack__r_e_a_d_m_e.html',1,'']]]
+  ['data_20structures_0',['Data Structures',['../d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md51',1,'']]],
+  ['developer_20tools_1',['Developer Tools',['../d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md52',1,'']]],
+  ['dictionary_2',['Dictionary',['..//Users/runner/work/C/C/data_structures/dictionary/README.md#autotoc_md42',1,'']]],
+  ['directory_3',['Integrating CMake in a new directory',['../d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md31',1,'']]],
+  ['directory_20guidelines_4',['Directory guidelines',['../d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md30',1,'']]],
+  ['documentation_5',['Documentation',['../d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md25',1,'Documentation'],['../index.html#autotoc_md80',1,'Documentation']]],
+  ['dynamic_20programming_6',['Dynamic Programming',['../d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md53',1,'']]]
 ];
